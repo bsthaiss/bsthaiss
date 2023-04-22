@@ -1,4 +1,4 @@
-<h2>Seja bem-vindo(a) ao meu perfil! 🥰</h2>
+<h2>🥰 Seja bem-vindo(a) ao meu perfil!</h2>
 <h4></h4>
 
 - 🔭 Cursando o 3º semestre de <strong>Análise e Desenvolvimento de Sistemas</strong> no <a href="https://www.unasp.br/">UNASP</a>. 

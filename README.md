@@ -2,7 +2,7 @@
 <h4></h4>
 
 - 🔭 Cursando o 3º semestre de <strong>Análise e Desenvolvimento de Sistemas</strong> no <a href="https://www.unasp.br/">UNASP</a>. 
-- 🌱 Também estudo sobre HTML5, CSS3 e JavaScript.
+- 🌱 Também estou estudando sobre HTML5, CSS3 e JavaScript.
 
 <h3>🌐 Redes Sociais: </h3>
 
